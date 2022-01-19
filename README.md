@@ -1,0 +1,2 @@
+# amazing-app
+Amazing app
